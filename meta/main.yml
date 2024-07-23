@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  role_name: ans_practice_role
+  author: Jason Gaglione
+  description: ans practice role
+  company: none
+  license: none
+  min_ansible_version: "2.14"
+  platforms:
+    - name: EL
+      versionsl:
+        - all
+  galaxy_tags: []
+
+dependencies: []
